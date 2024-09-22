@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "8212",
+      "cityName": "Fukushima",
+      "country": "Japan",
+      "emoji": "JP",
+      "date": "2024-08-03T11:16:23.857Z",
+      "notes": "I Whant Goii There",
+      "position": {
+        "lat": "37.73596920859053",
+        "lng": "140.43823242187503"
+      }
+    }
+  ]
+}
