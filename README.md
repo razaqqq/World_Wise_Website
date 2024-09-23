@@ -1,1 +1,57 @@
 <h1>World Wise Website Using React and Vite</h1>
+<br>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, convallis in consequat at, tincidunt suscipit odio. In pulvinar id massa eu venenatis. Vivamus libero mi, auctor et congue eu, pulvinar id tellus. Duis venenatis ligula in pellentesque fringilla. Suspendisse porttitor sodales efficitur. Vivamus convallis tincidunt felis sit amet aliquet. Aenean porttitor viverra lectus eu tincidunt. Sed nibh ligula, pharetra sit amet dui sit amet, congue congue massa. Nam dignissim purus metus, vitae cursus ante porta non.
+</p>
+<br><br>
+
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/74ff7df1-c793-457d-b606-0690c5bf65c5" width="600" height="300" />
+  <p>1. Home Screen</p>
+</div>
+<br><br>
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/fd962798-0f2d-4aeb-a9f4-4034d6543717" width="600" height="300" />
+  <p>2. Login Screen</p>
+</div>
+<br><br>
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/477e6326-27e9-4891-abe8-8d81b86fa0d8" width="600" hieght="300" />
+  <p>3. Main Screen</p>
+</div>
+<br><br>
+
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/5b992d0e-ad86-4548-8a93-ad59263743b2" width="300" height="300" />
+  <p>4. Add Countries Component</p>
+</div>
+<br><br>
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/99ed43f4-f5b5-4c66-ab73-e6fa2b0262a0" width="300" height="300" />
+  <p>5. List Citiest Component</p>
+</div>
+<br><br>
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/5562f40f-753b-41f3-a30e-ea9548813c2a" width="300" height="300" />
+  <p>6. List Countriest Component</p>
+</div>
+<br><br>
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/2b434c7b-17b9-4d4e-a9dd-2d01178e70a2" width="300" height="300" />
+  <p>7. Map Component</p>
+</div>
+<br><br>
