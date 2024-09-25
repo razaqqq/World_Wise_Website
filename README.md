@@ -1,7 +1,8 @@
 <h1>World Wise Website Using React and Vite</h1>
 <br>
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, convallis in consequat at, tincidunt suscipit odio. In pulvinar id massa eu venenatis. Vivamus libero mi, auctor et congue eu, pulvinar id tellus. Duis venenatis ligula in pellentesque fringilla. Suspendisse porttitor sodales efficitur. Vivamus convallis tincidunt felis sit amet aliquet. Aenean porttitor viverra lectus eu tincidunt. Sed nibh ligula, pharetra sit amet dui sit amet, congue congue massa. Nam dignissim purus metus, vitae cursus ante porta non.
+ Created using React And for Backend Using Node, data will stored locally in your local machine,
+  before using this website you must SignUp or create an User, This App Give You Ability to Save All Location in Your Local Machine
 </p>
 <br><br>
 
